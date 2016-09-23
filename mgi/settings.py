@@ -116,7 +116,7 @@ HANDLE_SERVER_PSWD = ''
 # Customization: Registry
 CUSTOM_TITLE = 'International Metrology Resource Registry'
 CUSTOM_ORGANIZATION = ''
-CUSTOM_NAME = 'NMRR'
+CUSTOM_NAME = 'IMRR'
 CUSTOM_SUBTITLE = 'Part of the Materials Genome Initiative'
 CUSTOM_DATA = 'Materials Data'
 CUSTOM_CURATE = 'Add your resource'
